@@ -1,0 +1,5 @@
+.tmp*
+GameDev/.obsidian/workspace*
+GameDev/.obsidian/plugins/remember-cursor-position/cursor-positions.json
+.trash/
+.DS_Store

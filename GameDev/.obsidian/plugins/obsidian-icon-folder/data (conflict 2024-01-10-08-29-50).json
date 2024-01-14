@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiLightbulb",
+      "LiTableProperties",
+      "LiTrash",
+      "FabReact",
+      "RiComputerLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "1.Projects": "LiWorkflow",
+  "2.Areas": "LiUser",
+  "3.Resources": "LiDatabase",
+  "1.Projects/회사": "RiHomeOfficeLine",
+  "1.Projects/개인": "RiUser3Line",
+  "1.Projects/_daily": "LiCalendar",
+  "2.Areas/건강": "RiStethoscopeLine",
+  "2.Areas/취미": "LiGamepad",
+  "3.Resources/Application Settings": "RiWindowLine",
+  "3.Resources/Clippings": "LiPaperclip",
+  "3.Resources/Excalidraw": "LiPen",
+  "3.Resources/Programming": "RiComputerLine",
+  "3.Resources/React": "FabReact",
+  "3.Resources/temp": "LiTrash",
+  "3.Resources/Clipping Table.md": "LiTableProperties",
+  "2.Areas/아이디어": "LiLightbulb"
+}

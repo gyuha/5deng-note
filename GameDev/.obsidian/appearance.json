@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Red Graphite",
+  "interfaceFontFamily": "AppleSDGothicNeoM00",
+  "textFontFamily": "AppleSDGothicNeoM00",
+  "monospaceFontFamily": "JCoding",
+  "baseFontSize": 16,
+  "nativeMenus": true,
+  "translucency": false,
+  "showViewHeader": true
+}

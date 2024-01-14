@@ -1,0 +1,169 @@
+{
+  "cardViewModalHotkeys": {
+    "selectNext": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "n"
+      },
+      {
+        "modifiers": [],
+        "key": "ArrowDown"
+      }
+    ],
+    "selectPrevious": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "p"
+      },
+      {
+        "modifiers": [],
+        "key": "ArrowUp"
+      }
+    ],
+    "openPreviewModal": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": " "
+      }
+    ],
+    "open": [
+      {
+        "modifiers": [],
+        "key": "Enter"
+      }
+    ],
+    "openInNewPaneHorizontally": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "Enter"
+      }
+    ],
+    "openInNewPaneVertically": [
+      {
+        "modifiers": [
+          "Ctrl",
+          "Shift"
+        ],
+        "key": "Enter"
+      }
+    ],
+    "copyLink": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "i"
+      }
+    ]
+  },
+  "previewModalHotkeys": {
+    "scrollDown": [
+      {
+        "modifiers": [],
+        "key": "ArrowDown"
+      },
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "n"
+      }
+    ],
+    "scrollUp": [
+      {
+        "modifiers": [],
+        "key": "ArrowUp"
+      },
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "p"
+      }
+    ],
+    "bigScrollDown": [
+      {
+        "modifiers": [],
+        "key": " "
+      }
+    ],
+    "bigScrollUp": [
+      {
+        "modifiers": [
+          "Shift"
+        ],
+        "key": " "
+      }
+    ],
+    "open": [
+      {
+        "modifiers": [],
+        "key": "Enter"
+      }
+    ],
+    "openInNewPaneHorizontally": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "Enter"
+      }
+    ],
+    "openInNewPaneVertically": [
+      {
+        "modifiers": [
+          "Ctrl",
+          "Shift"
+        ],
+        "key": "Enter"
+      }
+    ],
+    "closeModal": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": " "
+      }
+    ],
+    "focusNext": [
+      {
+        "modifiers": [],
+        "key": "Tab"
+      }
+    ],
+    "focusPrevious": [
+      {
+        "modifiers": [
+          "Shift"
+        ],
+        "key": "Tab"
+      }
+    ],
+    "toggleViewMode": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "e"
+      }
+    ],
+    "copyLink": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "i"
+      }
+    ]
+  }
+}

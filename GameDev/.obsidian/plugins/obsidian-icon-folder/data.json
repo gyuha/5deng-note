@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPiggyBank",
+      "LiTrash",
+      "LiDatabase",
+      "LiUser",
+      "LiWorkflow"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "1.Projects": "LiWorkflow",
+  "2.Areas": "LiUser",
+  "3.Resources": "LiDatabase",
+  "1.Projects/회사": "RiHomeOfficeLine",
+  "1.Projects/개인": "RiUser3Line",
+  "1.Projects/_daily": "LiCalendar",
+  "2.Areas/건강": "RiStethoscopeLine",
+  "2.Areas/취미": "LiGamepad",
+  "3.Resources/Clippings": "LiPaperclip",
+  "3.Resources/Excalidraw": "LiPen",
+  "3.Resources/temp": "LiTrash",
+  "3.Resources/Clipping Table.md": "LiTableProperties",
+  "2.Areas/아이디어": "LiLightbulb",
+  "2.Areas/어플 설정": "LiAppWindow",
+  "2.Areas/Stable Diffusion": "FarImage",
+  "2.Areas/React": "FabReact",
+  "2.Areas/Python": "FabPython",
+  "2.Areas/Programming": "RiComputerFill",
+  "2.Areas/Flutter": "RiFlutterFill",
+  "2.Areas/Application": "RiWindow2Fill",
+  "2.Area": "LiUser",
+  "4.Archive": "LiPiggyBank"
+}

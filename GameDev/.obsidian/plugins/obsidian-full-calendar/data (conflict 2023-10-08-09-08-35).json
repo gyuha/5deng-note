@@ -1,0 +1,36 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#a99eff",
+      "directory": "1.Projects/_Meeting"
+    },
+    {
+      "type": "local",
+      "color": "#57c957",
+      "directory": "1.Projects/DPL"
+    },
+    {
+      "type": "ical",
+      "color": "#0055ff",
+      "url": "https://calendar.google.com/calendar/ical/0cd25e6f4fa56e40ac36947be36aac4c4fe0d5eb13330f02307d1ae723b3e87d%40group.calendar.google.com/private-afb07c70c1ac7adf73a395d2f4dcebf3/basic.ics"
+    },
+    {
+      "type": "local",
+      "color": "#eeff00",
+      "directory": "1.Projects/_daily"
+    },
+    {
+      "type": "local",
+      "color": "#69a0db",
+      "directory": "1.Projects/aSIMS"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

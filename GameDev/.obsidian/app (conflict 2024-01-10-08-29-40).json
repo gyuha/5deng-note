@@ -1,0 +1,19 @@
+{
+  "vimMode": true,
+  "attachmentFolderPath": "3.Resources/temp/attached files",
+  "showUnsupportedFiles": true,
+  "focusNewTab": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "autoConvertHtml": true,
+  "showInlineTitle": true
+}
